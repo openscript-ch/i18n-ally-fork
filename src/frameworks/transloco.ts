@@ -21,7 +21,7 @@ export default class TranslocoFramework extends Framework {
 
   usageMatchRegex = [
     // https://ngneat.github.io/transloco/docs/translation-in-the-template#pipe
-    '[`\'"]({key})[`\'"][\\s\\n]*\\|[\\s\\n]*transloco',
+    '[`\'"]({key})[`\'"].*?\\|[\\s\\n]*transloco',
     // https://ngneat.github.io/transloco/docs/translation-in-the-template#structural-directive
     '[^\\w\\d](?:t)\\([\\s\\n]*[\'"`]({key})[\'"`]',
     // https://ngneat.github.io/transloco/docs/translation-api
