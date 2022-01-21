@@ -1,9 +1,5 @@
 <p align="center">
-<img src="https://github.com/lokalise/i18n-ally/blob/main/screenshots/full-logo-new.png?raw=true" alt="logo" width="450"/>
-</p>
-
-<p align='center'>
-English | <a href="https://github.com/lokalise/i18n-ally/blob/main/README.zh-CN.md">简体中文</a>
+<img src="https://github.com/openscript-ch/i18n-ally-fork/blob/main/screenshots/full-logo-new.png?raw=true" alt="logo" width="450"/>
 </p>
 
 <p align="center">
@@ -12,30 +8,30 @@ English | <a href="https://github.com/lokalise/i18n-ally/blob/main/README.zh-CN.
 <a href="https://marketplace.visualstudio.com/items?itemName=lokalise.i18n-ally" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/i/lokalise.i18n-ally.svg?color=63ba83" alt="Visual Studio Marketplace Installs" /></a>
 <a href="https://marketplace.visualstudio.com/items?itemName=lokalise.i18n-ally" target="__blank"><img src="https://vsmarketplacebadge.apphb.com/trending-monthly/lokalise.i18n-ally.svg?color=a1b858" alt="Marketplace Trending Monthly" /></a>
 <br/>
-<a href="https://github.com/lokalise/i18n-ally/wiki" target="__blank"><img alt="Wiki" src="https://img.shields.io/static/v1?label=docs&message=wiki&color=e3897b"></a>
-<a href="https://github.com/lokalise/i18n-ally" target="__blank"><img src="https://img.shields.io/github/last-commit/lokalise/i18n-ally.svg?color=c977be" alt="GitHub last commit" /></a>
-<a href="https://github.com/lokalise/i18n-ally/issues" target="__blank"><img src="https://img.shields.io/github/issues/lokalise/i18n-ally.svg?color=a38eed" alt="GitHub issues" /></a>
-<a href="https://github.com/lokalise/i18n-ally" target="__blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/lokalise/i18n-ally?style=social"></a>
+<a href="https://github.com/openscript-ch/i18n-ally-fork/wiki" target="__blank"><img alt="Wiki" src="https://img.shields.io/static/v1?label=docs&message=wiki&color=e3897b"></a>
+<a href="https://github.com/openscript-ch/i18n-ally-fork" target="__blank"><img src="https://img.shields.io/github/last-commit/lokalise/i18n-ally.svg?color=c977be" alt="GitHub last commit" /></a>
+<a href="https://github.com/openscript-ch/i18n-ally-fork/issues" target="__blank"><img src="https://img.shields.io/github/issues/lokalise/i18n-ally.svg?color=a38eed" alt="GitHub issues" /></a>
+<a href="https://github.com/openscript-ch/i18n-ally-fork" target="__blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/lokalise/i18n-ally?style=social"></a>
 </p>
 
 <p align='center'>
-<b>v2.0</b> is released with new <a href='https://github.com/lokalise/i18n-ally/wiki/Editor-UI'>Editor UI</a> and <a href='https://github.com/lokalise/i18n-ally/wiki/Review-&-Collaboration-System'>Review System</a> 🎉
+<b>v2.0</b> is released with new <a href='https://github.com/openscript-ch/i18n-ally-fork/wiki/Editor-UI'>Editor UI</a> and <a href='https://github.com/openscript-ch/i18n-ally-fork/wiki/Review-&-Collaboration-System'>Review System</a> 🎉
 </p>
 
 <p align='center'><i>
-<a href="https://github.com/lokalise/i18n-ally/wiki/Migration-v1.x">Migrate from v1.x</a>
+<a href="https://github.com/openscript-ch/i18n-ally-fork/wiki/Migration-v1.x">Migrate from v1.x</a>
 </i></p>
 <br>
 
 <p align="center">
-<a href='https://github.com/lokalise/i18n-ally/wiki/Supported-Frameworks' target="__blank">
-<img src="https://github.com/lokalise/i18n-ally/blob/screenshots/supported-frameworks.png?raw=true" alt="Supported Frameworks" width="550"/>
+<a href='https://github.com/openscript-ch/i18n-ally-fork/wiki/Supported-Frameworks' target="__blank">
+<img src="https://github.com/openscript-ch/i18n-ally-fork/blob/screenshots/supported-frameworks.png?raw=true" alt="Supported Frameworks" width="550"/>
 </a>
 </p>
 
 <h3 align="center">Maintained by</h3>
 <p align="center">
-<a title="Lokalise: accelerate localization from code to delivery" href="https://lokalise.com/?utm_source=vscmarket&amp;utm_campaign=i18nally&amp;utm_medium=banner"><img src="https://github.com/lokalise/i18n-ally/raw/screenshots/lokalise-logo.png?raw=true" alt="Lokalise logo" width="275px"></a><br>
+<a title="Lokalise: accelerate localization from code to delivery" href="https://lokalise.com/?utm_source=vscmarket&amp;utm_campaign=i18nally&amp;utm_medium=banner"><img src="https://github.com/openscript-ch/i18n-ally-fork/raw/screenshots/lokalise-logo.png?raw=true" alt="Lokalise logo" width="275px"></a><br>
 <sup>Lokalise is the fastest growing language cloud technology made by developers, for developers.<br>
 As a collaborative productivity platform, it helps structure and automate the translation and localization process for any company in the world.<br>
 <a title="Lokalise: accelerate localization from code to delivery" href="https://lokalise.com/?utm_source=vscmarket&amp;utm_campaign=i18nally&amp;utm_medium=banner">Learn more</a></sup>
@@ -46,15 +42,15 @@ As a collaborative productivity platform, it helps structure and automate the tr
 <br>
 
 <h4 align="center">
-<a href="https://github.com/lokalise/i18n-ally/wiki">📖 Docs</a>
+<a href="https://github.com/openscript-ch/i18n-ally-fork/wiki">📖 Docs</a>
 &nbsp;|&nbsp;
-<a href="https://github.com/lokalise/i18n-ally/wiki/FAQ">💭 FAQ</a>
+<a href="https://github.com/openscript-ch/i18n-ally-fork/wiki/FAQ">💭 FAQ</a>
 &nbsp;|&nbsp;
-<a href="https://github.com/lokalise/i18n-ally/wiki/Configurations">⚙️ Configs</a>
+<a href="https://github.com/openscript-ch/i18n-ally-fork/wiki/Configurations">⚙️ Configs</a>
 &nbsp;|&nbsp;
-<a href="https://github.com/lokalise/i18n-ally/wiki/Locale-Formats#supported-locale-formats">📜 Supported Formats</a>
+<a href="https://github.com/openscript-ch/i18n-ally-fork/wiki/Locale-Formats#supported-locale-formats">📜 Supported Formats</a>
 &nbsp;|&nbsp;
-<a href="https://github.com/lokalise/i18n-ally/wiki/Contribute">🧱 Contribute</a>
+<a href="https://github.com/openscript-ch/i18n-ally-fork/wiki/Contribute">🧱 Contribute</a>
 </h4>
 
 <br>
@@ -62,35 +58,35 @@ As a collaborative productivity platform, it helps structure and automate the tr
 
 <h3 align='center'>Inline Annotations</h3>
 
-![](https://github.com/lokalise/i18n-ally/blob/screenshots/annotation-animated.gif?raw=true)
+![](https://github.com/openscript-ch/i18n-ally-fork/blob/screenshots/annotation-animated.gif?raw=true)
 
 <h3 align='center'>Hover and Direct Actions</h3>
 
-![](https://github.com/lokalise/i18n-ally/blob/screenshots/hover.png?raw=true)
+![](https://github.com/openscript-ch/i18n-ally-fork/blob/screenshots/hover.png?raw=true)
 
 <h3 align='center'>Manage All Translations in One Place</h3>
 
-![](https://github.com/lokalise/i18n-ally/blob/screenshots/review-sidebar.png?raw=true)
+![](https://github.com/openscript-ch/i18n-ally-fork/blob/screenshots/review-sidebar.png?raw=true)
 
-<h3 align='center'><a href='https://github.com/lokalise/i18n-ally/wiki/Editor-UI'>Editor UI</a> & <a href='https://github.com/lokalise/i18n-ally/wiki/Review-&-Collaboration-System'>Review System</a></h3>
+<h3 align='center'><a href='https://github.com/openscript-ch/i18n-ally-fork/wiki/Editor-UI'>Editor UI</a> & <a href='https://github.com/openscript-ch/i18n-ally-fork/wiki/Review-&-Collaboration-System'>Review System</a></h3>
 
-![](https://github.com/lokalise/i18n-ally/blob/screenshots/review-editor.png?raw=true)
+![](https://github.com/openscript-ch/i18n-ally-fork/blob/screenshots/review-editor.png?raw=true)
 
 <h3 align='center'>Extract Translations from Code</h3>
 
-![](https://github.com/lokalise/i18n-ally/blob/screenshots/extract.png?raw=true)
+![](https://github.com/openscript-ch/i18n-ally-fork/blob/screenshots/extract.png?raw=true)
 
 <h3 align='center'>Report Missing Translations</h3>
 
-![](https://github.com/lokalise/i18n-ally/blob/screenshots/problems.png?raw=true)
+![](https://github.com/openscript-ch/i18n-ally-fork/blob/screenshots/problems.png?raw=true)
 
 <h3 align='center'>Machine Translation</h3>
 
-![](https://github.com/lokalise/i18n-ally/blob/screenshots/quick-actions.png?raw=true)
+![](https://github.com/openscript-ch/i18n-ally-fork/blob/screenshots/quick-actions.png?raw=true)
 
 <h3 align='center'>Annotations for JSON and YAML</h3>
 
-![](https://github.com/lokalise/i18n-ally/blob/screenshots/annotation-locale.png?raw=true)
+![](https://github.com/openscript-ch/i18n-ally-fork/blob/screenshots/annotation-locale.png?raw=true)
 
 <h3 align="center">General Features</h3>
 
@@ -98,7 +94,7 @@ As a collaborative productivity platform, it helps structure and automate the tr
 - Supports remote development
 - Supports numerous popular frameworks
 - Supports [linked locale messages](https://kazupon.github.io/vue-i18n/guide/messages.html#linked-locale-messages)
-- Uses i18n for the extension itself, of course. [Translation List](https://github.com/lokalise/i18n-ally#-multilingual-support)
+- Uses i18n for the extension itself, of course. [Translation List](https://github.com/openscript-ch/i18n-ally-fork#-multilingual-support)
 
 
 ## 🌍 Multilingual Support
@@ -122,7 +118,7 @@ This extension itself supports i18n as well. It will be auto-matched to the disp
 | German (Deutsch) | [@alexanderniebuhr](https://github.com/alexanderniebuhr) | |
 | Turkish (Türkçe) |  | [@eri](https://github.com/eri) |
 
-[**Help Translate**](https://github.com/lokalise/i18n-ally/wiki/Contribute#working-on-translations)
+[**Help Translate**](https://github.com/openscript-ch/i18n-ally-fork/wiki/Contribute#working-on-translations)
 
 > 👨‍💻 If you would like to help a language's translation up to date, feel free to put your name in the **Maintainers** field. I will @mention you when needed. Much appreciated.
 
@@ -137,10 +133,10 @@ Support for Vue Single File Component (SFC) is powered by [kazupon/vue-i18n-loca
 
 My great thanks to all the awesome contributors:
 
-<a href="https://github.com/lokalise/i18n-ally/graphs/contributors"><img src="https://opencollective.com/i18n-ally/contributors.svg?width=890"/></a>
+<a href="https://github.com/openscript-ch/i18n-ally-fork/graphs/contributors"><img src="https://opencollective.com/i18n-ally/contributors.svg?width=890"/></a>
 
 ## 📄 License
 
-[MIT License](https://github.com/lokalise/i18n-ally/blob/master/LICENSE) © 2019-PRESENT [Anthony Fu](https://github.com/antfu)
-
+[MIT License](https://github.com/openscript-ch/i18n-ally-fork/blob/master/LICENSE) © 2021-present [openscript GmbH](https://github.com/openscript-ch)
+[MIT License](https://github.com/lokalise/i18n-ally/blob/master/LICENSE) © 2019-2021 [Anthony Fu](https://github.com/antfu)
 MIT License © 2018-2019 [think2011](https://github.com/think2011)

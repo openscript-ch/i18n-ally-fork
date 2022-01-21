@@ -1,5 +1,5 @@
 export default {
-  github: 'https://github.com/lokalise/i18n-ally',
-  document: 'https://github.com/lokalise/i18n-ally/blob/master/README.md',
-  issues: 'https://github.com/lokalise/i18n-ally/issues',
+  github: 'https://github.com/openscript-ch/i18n-ally-fork',
+  document: 'https://github.com/openscript-ch/i18n-ally-fork/blob/master/README.md',
+  issues: 'https://github.com/openscript-ch/i18n-ally-fork/issues',
 }
