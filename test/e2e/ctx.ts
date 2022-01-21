@@ -16,7 +16,7 @@ export function timeout(ms = 1000) {
 }
 
 export function getExt() {
-  return extensions.getExtension('openscript.i18n-ally')!
+  return extensions.getExtension('openscript.i18n-ally-fork')!
 }
 
 export async function openFile(name: string) {
