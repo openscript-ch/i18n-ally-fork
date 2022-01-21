@@ -3,7 +3,7 @@
   "name": "i18n-ally-fork",
   "version": "2.8.3",
   "displayName": "i18n Ally Fork",
-  "description": "Visual Studio Code plugin, which helps developers to internationalize (i18n) their projects. ",
+  "description": "Visual Studio Code plugin, which helps developers to internationalize (i18n) their projects.",
   "keywords": [
     "vue",
     "vue-i18n",
