@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.9.0](https://github.com/openscript-ch/i18n-ally-fork/compare/v2.8.3...v2.9.0) (2022-01-21)
+
+
+### 🔮 Refactor
+
+* enhance .gitignore ([091f005](https://github.com/openscript-ch/i18n-ally-fork/commit/091f005bd9e114de86eacbba3e0332c92134c66b))
+* project description ([4033df4](https://github.com/openscript-ch/i18n-ally-fork/commit/4033df49d57b93c4af9269e68ddce3add26f2be5))
+
+
+### 🐞 Bug Fixes
+
+* e2e context ([241b496](https://github.com/openscript-ch/i18n-ally-fork/commit/241b496bb69cf8ad3e44abb0429746b202713ec0))
+* transloco scope detection ([b5da549](https://github.com/openscript-ch/i18n-ally-fork/commit/b5da549502e68fcb6987f368f3b4a1a11c9cb899))
+* wrong e2e context ([2de4296](https://github.com/openscript-ch/i18n-ally-fork/commit/2de42963226c7b5e67cfaa4b5b642ca8a1711b29))
+
+
+### ⚡ Features
+
+* multiple pipes before Transloco translation ([d36afcf](https://github.com/openscript-ch/i18n-ally-fork/commit/d36afcf86c4122ef03d84d8ca27f2b338f0fe4e1))
+
 ### [2.8.1](https://github.com/lokalise/i18n-ally/compare/v2.8.0...v2.8.1) (2021-09-13)
 
 
