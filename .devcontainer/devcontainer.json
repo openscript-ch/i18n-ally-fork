@@ -19,7 +19,8 @@
   // Add the IDs of extensions you want installed when the container is created.
   "extensions": [
     "dbaeumer.vscode-eslint",
-    "eamodio.gitlens"
+    "eamodio.gitlens",
+    "openscript.i18n-ally-fork",
   ],
 
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
