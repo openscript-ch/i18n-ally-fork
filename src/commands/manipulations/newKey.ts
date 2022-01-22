@@ -61,7 +61,7 @@ export async function NewKey(keypath?: string) {
       })
     }
   }
-  catch (err) {
+  catch (err: any) {
     Log.error(err.toString())
   }
 }

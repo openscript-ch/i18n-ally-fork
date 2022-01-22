@@ -40,7 +40,7 @@ export async function EditKey(item?: LocaleTreeItem | CommandOptions) {
       })
     }
   }
-  catch (err) {
+  catch (err: any) {
     Log.error(err.toString())
   }
 }
