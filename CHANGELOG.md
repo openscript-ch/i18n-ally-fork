@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.9.1](https://github.com/openscript-ch/i18n-ally-fork/compare/v2.9.0...v2.9.1) (2022-01-24)
+
+
+### 🔮 Refactor
+
+* clean up development extensions ([0e5548c](https://github.com/openscript-ch/i18n-ally-fork/commit/0e5548cb8782eb55bcb3894cf72dc6f04b58e13d))
+
+
+### ⚡ Features
+
+* add missing german translation ([f962fb0](https://github.com/openscript-ch/i18n-ally-fork/commit/f962fb00ca3f564561c10faa1eaaff14620cf15b))
+
+
+### 🐞 Bug Fixes
+
+* **transloco:** enhance regex for api translation selection ([b8dc5a8](https://github.com/openscript-ch/i18n-ally-fork/commit/b8dc5a8c5a74f8c2e92ce6b4bf8e0ec8e538abd5))
+* **transloco:** multi line matching for api usage ([8ec41d4](https://github.com/openscript-ch/i18n-ally-fork/commit/8ec41d41f794771e409c199426fa3fea6f337459))
+* typing in catch block of error object ([88b7f33](https://github.com/openscript-ch/i18n-ally-fork/commit/88b7f3356a8f93a3fa8abc47b7f25757e8fffe03))
+
 ## [2.9.0](https://github.com/openscript-ch/i18n-ally-fork/compare/v2.8.3...v2.9.0) (2022-01-21)
 
 
