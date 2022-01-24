@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.9.3](https://github.com/openscript-ch/i18n-ally-fork/compare/v2.9.2...v2.9.3) (2022-01-24)
+
+
+### 🐞 Bug Fixes
+
+* **transloco:**  find nested api usage ([0908170](https://github.com/openscript-ch/i18n-ally-fork/commit/090817034423349e56a79aa007b9251933a7a617))
+
 ### [2.9.2](https://github.com/openscript-ch/i18n-ally-fork/compare/v2.9.1...v2.9.2) (2022-01-24)
 
 ### [2.9.1](https://github.com/openscript-ch/i18n-ally-fork/compare/v2.9.0...v2.9.1) (2022-01-24)

@@ -1,7 +1,7 @@
 {
   "publisher": "openscript",
   "name": "i18n-ally-fork",
-  "version": "2.9.2",
+  "version": "2.9.3",
   "displayName": "i18n Ally Fork",
   "description": "Visual Studio Code plugin, which helps developers to internationalize (i18n) their projects.",
   "keywords": [
