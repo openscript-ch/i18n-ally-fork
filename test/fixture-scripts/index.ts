@@ -74,7 +74,7 @@ async function run() {
 let vscodeExecutablePath: string
 
 async function prepareVSCode() {
-  vscodeExecutablePath = await downloadAndUnzipVSCode('1.52.0')
+  vscodeExecutablePath = await downloadAndUnzipVSCode('1.63.0')
   const cliPath = resolveCliPathFromVSCodeExecutablePath(vscodeExecutablePath)
 
   spawnSync(cliPath, ['--install-extension', 'johnsoncodehk.volar'], {
